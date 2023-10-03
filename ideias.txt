@@ -1,0 +1,20 @@
+Ferramentas:
+    1- Banco de Dados de Filmes Nacionais:
+    Crie um banco de dados completo de filmes nacionais, permitindo que os usuários pesquisem por gênero, diretor, atores e outros critérios. Isso ajudará os amantes do cinema a descobrir facilmente filmes brasileiros para assistir.
+
+    2- Resenhas e Avaliações:
+    Ofereça espaço para resenhas e avaliações de filmes nacionais feitas por usuários. Isso incentivará a discussão e compartilhamento de opiniões sobre os filmes e ajudará outros espectadores a decidir o que assistir.
+
+    3- Calendário de Eventos Cinematográficos:
+    Mantenha um calendário atualizado de eventos relacionados ao cinema nacional, como festivais, lançamentos de filmes e palestras. Isso ajudará os usuários a acompanhar as oportunidades para apoiar o cinema brasileiro.
+
+    4- Loja de Produtos Relacionados ao Cinema Brasileiro:
+    Além das camisetas com estampas de filmes nacionais, você pode expandir sua loja para incluir itens como pôsteres, DVDs, livros e produtos relacionados ao cinema brasileiro.
+
+    5- Seção de Recomendações Personalizadas:
+    Desenvolva um sistema de recomendação que sugira filmes nacionais com base nos gostos e histórico de visualização dos usuários.
+
+    6- Eventos de Exibição Online: (29 de fevereiro)
+    Organize exibições online de filmes nacionais, seguidas por discussões ao vivo com diretores, elenco ou especialistas, para criar uma experiência interativa para os espectadores.
+
+    7- Blog educacional e atualidades
